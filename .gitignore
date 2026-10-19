@@ -1,0 +1,13 @@
+# Personal voice recordings, trained model and generated outputs
+data/
+results/
+*.wav
+*.pkl
+concepts.png
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Old MATLAB bundle (same code as src/ + VoiceCameraApp.m)
+VoiceCameraProject.zip
